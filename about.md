@@ -13,24 +13,24 @@ open to the public, crucial Medicare data will be more viewable to the average p
 and (possibly) lives.
 
 #####The Dataset
-'outcome-of-care-measures.csv' has many measurements relating to 30-day mortality and readmission rates for three
+`outcome-of-care-measures.csv` has many measurements relating to 30-day mortality and readmission rates for three
 common ER conditions: heart attack, heart failure, and pneumonia. If desired, an optional codebook for all the 
-variables: 'Flatfiles.pdf' is available on this repo.
+variables: `Flatfiles.pdf` is available on this repo.
 
 #####RankHospitalApp Options
 There are three primary selections to choose from: State, Condition, and Ranking Order.
 
-State has postal abbreviations of all 50 U.S. states to search from. Selecting 'All' gives the single 'best' 
+`State` has postal abbreviations of all 50 U.S. states to search from. Selecting 'All' gives the single 'best' 
 or 'worst' hospital of each State.
 
-Condition 'heart attack', 'heart failure', and 'pneumonia' selects which condition
+`Condition` 'heart attack', 'heart failure', and 'pneumonia' selects which condition
 
-Ranking From 'Best to Worst' and 'Worst to Best'
+`Ranking From` 'Best to Worst' and 'Worst to Best'
 
 Other options include how many records per page, sort toggling of all nine columns, and a search bar.
 
 #####Notes
 There were a few reasons why I decided not to include the 30 day mortality figures in the chart. Primarily 
 because the additional factors included lower and upper estimations, comparison with national average, and 
-others which would have put more columns into the final table. I judged that for the patents in question, the 
+others which would have put more columns into the final table. I judged that for the patients in question, the 
 most neccessary information, aside from the ranking, were the addresses.   
