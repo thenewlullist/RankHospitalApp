@@ -4,7 +4,7 @@ RankHospitalApp
 Exponentially growing Health Insurance premiums are a primary factor behind patents seeking alternative opinions 
 and reviews online. An entire sub-branch of Medical Reference has grown to accomodate this need with recognized 
 companies like WebMd leading this trend. As part of an ongoing open data initiative among global buisinesses and 
-governments, data.medicare.gov releases data sets for Hospital comparison. With more than 4,000 
+governments, [data.medicare.gov](https://data.medicare.gov/) releases data sets for Hospital comparison. With more than 4,000 
 Medicare-certified hospitals reviewed nationwide, finding relevant information in the large datasets can be 
 challenging. RankHospitalApp is a simple demonstration of creating a data table with drop down toolbars for easy 
 reference of the Hospital addresses ranked in the outcome-of-care-measures.csv dataset which can be downloaded 
