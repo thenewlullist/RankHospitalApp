@@ -15,7 +15,7 @@ and (possibly) lives.
 #####The Dataset
 `outcome-of-care-measures.csv` has many measurements relating to 30-day mortality and readmission rates for three
 common ER conditions: heart attack, heart failure, and pneumonia. If desired, an optional codebook for all the 
-variables: `Flatfiles.pdf` is available on this repo.
+variables: `Hospital_Revised_Flatfiles.pdf` is available on this repo.
 
 #####RankHospitalApp Options
 There are three primary selections to choose from: State, Condition, and Ranking Order.
