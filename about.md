@@ -33,4 +33,7 @@ Other options include how many records per page, sort toggling of all nine colum
 There were a few reasons why I decided not to include the 30 day mortality figures in the chart. Primarily 
 because the additional factors included lower and upper estimations, comparison with national average, and 
 others which would have put more columns into the final table. I judged that for the patients in question, the 
-most neccessary information, aside from the ranking, were the addresses.   
+most neccessary information, aside from the ranking, were the addresses.
+#####References
+Essential sources for this App include the Basic Datatable App from RStudio, shared in Github by [garrettgman](https://github.com/rstudio/shiny-examples/tree/master/030-basic-datatable)
+and [data.medicare.gov](https://data.medicare.gov/data/hospital-compare). R Ranking functions in [thenewlullist](https://github.com/thenewlullist/RankHospitalApp) repo. 
